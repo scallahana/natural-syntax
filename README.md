@@ -1,5 +1,5 @@
-# natural-syntax theme
+# warmth-syntax theme
 
-A short description of your theme.
+This theme was made with warm natural colors in mind its easy on the eyes. The Color's are heavily inspired by Spring and Summer.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://raw.githubusercontent.com/scallahana/warmth-syntax/master/screenshot.png)
